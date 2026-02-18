@@ -1,9 +1,6 @@
 # Clarinet Portfolio
 
-A static website showcasing my performance career and reportoire resources
-
-## About
-This site serves as a professional portfolio and resource hub. It highlights my experience with the UCF Symphonic Band and the Florida All-State Symphony Orchestra, while also providing a curated list of essential clarinet repertoire for students and performers.
+A static website with my performance career and reportoire resources for clarinet
 
 ## Tech Stack
 HTML/JavaScript/Tailwind CSS  - Core structure and dynamic repertoire rendering.
