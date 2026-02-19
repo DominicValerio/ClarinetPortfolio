@@ -3,7 +3,7 @@
 A static website with my performance career and reportoire resources for clarinet
 
 ## Website Link
-https://dominicvalerio.github.io/Clarinet/
+https://dominicvalerio.github.io/ClarinetPortfolio/
 
 ## Tech Stack
 HTML/JavaScript/Tailwind CSS  - Core structure and dynamic repertoire rendering.
